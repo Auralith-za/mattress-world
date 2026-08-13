@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <rect width="240" height="60" rx="10" fill="#000" opacity="0"/>
+  <g transform="translate(10, 8)">
+    <!-- Payflex wordmark styled accurately -->
+    <text x="0" y="38" font-family="'Outfit', 'Inter', 'Helvetica Neue', sans-serif" font-weight="900" font-size="34" fill="#1B2845" letter-spacing="-1">
+      pay<tspan fill="#00C4A4">flex</tspan>
+    </text>
+    <!-- Accent Pill -->
+    <rect x="180" y="14" width="36" height="24" rx="12" fill="#00C4A4"/>
+    <path d="M192 26 L197 31 L205 21" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>

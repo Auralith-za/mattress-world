@@ -1,0 +1,88 @@
+{
+  "../hydrogen-mattress-world/node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-BPy-XFC5.js",
+    "name": "entry.client",
+    "src": "../hydrogen-mattress-world/node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_index-C5kuDOqa.js",
+      "_components-CdSvkynV.js"
+    ]
+  },
+  "/Users/curt/Desktop/Mattress world Main/app/styles/app.css": {
+    "file": "assets/app-DDSPwCrh.css",
+    "src": "/Users/curt/Desktop/Mattress world Main/app/styles/app.css"
+  },
+  "_components-CdSvkynV.js": {
+    "file": "assets/components-CdSvkynV.js",
+    "name": "components",
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_index-C5kuDOqa.js"
+    ]
+  },
+  "_index-BoOh8s_5.js": {
+    "file": "assets/index-BoOh8s_5.js",
+    "name": "index"
+  },
+  "_index-C5kuDOqa.js": {
+    "file": "assets/index-C5kuDOqa.js",
+    "name": "index",
+    "imports": [
+      "_index-BoOh8s_5.js"
+    ]
+  },
+  "_products-U6DKbby7.js": {
+    "file": "assets/products-U6DKbby7.js",
+    "name": "products",
+    "imports": [
+      "_index-BoOh8s_5.js"
+    ]
+  },
+  "app/root.tsx?__remix-build-client-route": {
+    "file": "assets/root-_eyWiUPK.js",
+    "name": "root",
+    "src": "app/root.tsx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_components-CdSvkynV.js",
+      "_index-C5kuDOqa.js"
+    ],
+    "assets": [
+      "assets/app-DDSPwCrh.css"
+    ]
+  },
+  "app/routes/_index.tsx?__remix-build-client-route": {
+    "file": "assets/_index-Cymt_4Jv.js",
+    "name": "_index",
+    "src": "app/routes/_index.tsx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_products-U6DKbby7.js"
+    ]
+  },
+  "app/routes/products.$id.tsx?__remix-build-client-route": {
+    "file": "assets/products._id-uUXIDq7E.js",
+    "name": "products._id",
+    "src": "app/routes/products.$id.tsx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_products-U6DKbby7.js"
+    ]
+  },
+  "app/routes/shop.tsx?__remix-build-client-route": {
+    "file": "assets/shop-COqFV9WX.js",
+    "name": "shop",
+    "src": "app/routes/shop.tsx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-BoOh8s_5.js",
+      "_products-U6DKbby7.js",
+      "_index-C5kuDOqa.js"
+    ]
+  }
+}

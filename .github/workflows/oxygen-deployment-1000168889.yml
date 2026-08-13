@@ -21,7 +21,10 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build and Publish to Oxygen
-        run: npx shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --build-command="npm run build" --no-verify --path=.
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Oxygen
+        run: npx shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --no-verify --path=. --output-dir=./build
         env:
           SHOPIFY_HYDROGEN_DEPLOYMENT_TOKEN: ${{ secrets.OXYGEN_DEPLOYMENT_TOKEN_1000168889 }}
