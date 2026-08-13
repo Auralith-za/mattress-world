@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "shopify hydrogen build",
+    "deploy": "shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --no-verify",
     "dev": "shopify hydrogen dev",
     "preview": "shopify hydrogen preview",
     "typecheck": "tsc --noEmit"

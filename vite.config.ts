@@ -23,10 +23,6 @@ export default defineConfig({
       '~': resolve(__dirname, './app'),
     },
   },
-  ssr: {
-    target: 'webworker',
-    noExternal: true,
-  },
   build: {
     assetsInlineLimit: 0,
   },
