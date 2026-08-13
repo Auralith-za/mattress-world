@@ -16,15 +16,12 @@ jobs:
       - name: Setup node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "lts/*"
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build
-        run: npm run build
-
-      - name: Deploy to Oxygen
-        run: npx shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --no-verify --path=. --output-dir=./build
+      - name: Build and Publish to Oxygen
+        run: npx shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --no-verify
         env:
           SHOPIFY_HYDROGEN_DEPLOYMENT_TOKEN: ${{ secrets.OXYGEN_DEPLOYMENT_TOKEN_1000168889 }}

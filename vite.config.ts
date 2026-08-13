@@ -1,11 +1,16 @@
 import {defineConfig} from 'vite';
+import {hydrogen} from '@shopify/hydrogen/vite';
 import {vitePlugin as remix} from '@remix-run/dev';
-import {resolve} from 'path';
+import {fileURLToPath} from 'url';
+import {dirname, resolve} from 'path';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [
+    hydrogen(),
     remix({
-      serverModuleFormat: 'esm',
+      presets: [hydrogen.preset()],
       future: {
         v3_fetcherPersist: true,
         v3_relativeSplatPath: true,
@@ -20,8 +25,5 @@ export default defineConfig({
   },
   build: {
     assetsInlineLimit: 0,
-  },
-  optimizeDeps: {
-    include: ['clsx', 'lucide-react'],
   },
 });
