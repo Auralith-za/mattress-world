@@ -24,12 +24,14 @@ export default defineConfig({
     },
   },
   ssr: {
+    target: 'webworker',
     noExternal: [
       'react',
       'react-dom',
       'react/jsx-runtime',
       'react/jsx-dev-runtime',
       '@remix-run/react',
+      'isbot',
       'clsx',
       'lucide-react',
     ],
