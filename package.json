@@ -9,8 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@shopify/hydrogen": "^2024.4.0",
-    "@shopify/remix-oxygen": "^2.0.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",

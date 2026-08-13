@@ -33,9 +33,9 @@ jobs:
             ${{ runner.os }}-
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build and Publish to Oxygen
-        run: npx shopify hydrogen deploy --build-command="npm run build" --no-verify
+        run: npx shopify hydrogen deploy --shop=mqrbzt-h4.myshopify.com --build-command="npm run build" --no-verify
         env:
           SHOPIFY_HYDROGEN_DEPLOYMENT_TOKEN: ${{ secrets.OXYGEN_DEPLOYMENT_TOKEN_1000168889 }}
