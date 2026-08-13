@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "mattress-world-",
+    "name": "",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World  from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-",
+    "name": "",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World  from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-",
+    "name": "",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World  from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-",
+    "name": "",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud-Nine-SloMotion-King-Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-",
+    "name": "",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Strandmattress_Ergomax_Mattress.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 3059,
+        "threeQuarter": 3479,
+        "double": 4099,
+        "queen": 4459
+      },
+      "mattressOnly": {
+        "single": 1809,
+        "threeQuarter": 2059,
+        "double": 2559,
+        "queen": 2829
+      },
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-g",
+    "name": "G",
+    "brand": "Cloud Nine",
+    "range": "Ult",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine G from the Ult. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Grande_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 12589,
+        "threeQuarter": 14279,
+        "double": 17179,
+        "queen": 18659,
+        "king": 22689
+      },
+      "mattressOnly": {
+        "single": 10939,
+        "threeQuarter": 12449,
+        "double": 15149,
+        "queen": 16579,
+        "king": 19379
+      },
+      "extraLengthSet": {
+        "single": 13599,
+        "threeQuarter": 15429,
+        "double": 18559,
+        "queen": 20159,
+        "king": 24509
+      },
+      "extraLengthMattressOnly": {
+        "single": 11819,
+        "threeQuarter": 13449,
+        "double": 16359,
+        "queen": 17909,
+        "king": 20929
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-c-h",
+    "name": "C h",
+    "brand": "Cloud Nine",
+    "range": "Ult",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine C h from the Ult. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Grande_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 11519,
+        "threeQuarter": 13269,
+        "double": 16379,
+        "queen": 17989,
+        "king": 22329
+      },
+      "mattressOnly": {
+        "single": 9869,
+        "threeQuarter": 11439,
+        "double": 14359,
+        "queen": 15909,
+        "king": 19019
+      },
+      "extraLengthSet": {
+        "single": 12439,
+        "threeQuarter": 14329,
+        "double": 17689,
+        "queen": 19249,
+        "king": 24119
+      },
+      "extraLengthMattressOnly": {
+        "single": 10659,
+        "threeQuarter": 12359,
+        "double": 15509,
+        "queen": 17189,
+        "king": 20539
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-camd",
+    "name": "Camd",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine Camd from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Epic_Comfort_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 8879,
+        "threeQuarter": 10179,
+        "double": 12429,
+        "queen": 13609,
+        "king": 16969
+      },
+      "mattressOnly": {
+        "single": 7219,
+        "threeQuarter": 8339,
+        "double": 10399,
+        "queen": 11519,
+        "king": 13659
+      },
+      "extraLengthSet": {
+        "single": 9589,
+        "threeQuarter": 10999,
+        "double": 13429,
+        "queen": 14699,
+        "king": 18329
+      },
+      "extraLengthMattressOnly": {
+        "single": 7799,
+        "threeQuarter": 9009,
+        "double": 11229,
+        "queen": 12439,
+        "king": 14749
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-",
+    "name": "",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Epic_Comfort_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 7819,
+        "threeQuarter": 8919,
+        "double": 10909,
+        "queen": 11839,
+        "king": 14919
+      },
+      "mattressOnly": {
+        "single": 6159,
+        "threeQuarter": 7089,
+        "double": 8879,
+        "queen": 9759,
+        "king": 11609
+      },
+      "extraLengthSet": {
+        "single": 8449,
+        "threeQuarter": 9639,
+        "double": 11779,
+        "queen": 12789,
+        "king": 16119
+      },
+      "extraLengthMattressOnly": {
+        "single": 6649,
+        "threeQuarter": 7659,
+        "double": 9589,
+        "queen": 10539,
+        "king": 12539
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-c",
+    "name": "C",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine C from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Epic_Comfort_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 7539,
+        "threeQuarter": 8639,
+        "double": 10529,
+        "queen": 11459,
+        "king": 14519
+      },
+      "mattressOnly": {
+        "single": 5889,
+        "threeQuarter": 6809,
+        "double": 8509,
+        "queen": 9379,
+        "king": 11209
+      },
+      "extraLengthSet": {
+        "single": 8149,
+        "threeQuarter": 9329,
+        "double": 11379,
+        "queen": 12379,
+        "king": 15679
+      },
+      "extraLengthMattressOnly": {
+        "single": 6359,
+        "threeQuarter": 7359,
+        "double": 9189,
+        "queen": 10129,
+        "king": 12109
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "cloud-nine-",
+    "name": "",
+    "brand": "Cloud Nine",
+    "range": "",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 15,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Cloud Nine  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/cloud_nine_Cloud_Nine_Epic_Comfort_Bed_Set.png",
+    "brandLogo": "/assets/logos/cloud_nine_logo.png",
+    "prices": {
+      "set": {
+        "single": 8159,
+        "threeQuarter": 9339,
+        "double": 11359,
+        "queen": 12389,
+        "king": 15539
+      },
+      "mattressOnly": {
+        "single": 6499,
+        "threeQuarter": 7509,
+        "double": 9339,
+        "queen": 10309,
+        "king": 12229
+      },
+      "extraLengthSet": {
+        "single": 8819,
+        "threeQuarter": 10089,
+        "double": 12269,
+        "queen": 13379,
+        "king": 16789
+      },
+      "extraLengthMattressOnly": {
+        "single": 7019,
+        "threeQuarter": 8109,
+        "double": 10089,
+        "queen": 11139,
+        "king": 13209
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-big-l-shape-corner-couch",
+    "name": "Big L-Shape Corner Couch",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Big L-Shape Corner Couch from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Big-L-Shape_Corner_Couch_Clean.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-chesterfield",
+    "name": "Chesterfield",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Chesterfield from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Chesterfield_3_Seater_Couch.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-oxford",
+    "name": "Oxford",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Oxford from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Oxford_2_Seater_Couch_.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-lola",
+    "name": "Lola",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Lola from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Lola_2_Seater_Couch.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-small-l-shape-corner-couch",
+    "name": "Small L-Shape Corner Couch",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Small L-Shape Corner Couch from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Small_L-Shape_Corner_Couch_Clean.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-california",
+    "name": "California",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World California from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_California_3_Seater_Couch.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-double-pine-bunk",
+    "name": "Double Pine Bunk",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World Double Pine Bunk from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-chain-link-padded-headboard",
+    "name": "Chain Link Padded Headboard",
+    "brand": "Mattress World",
+    "range": "Orthopedic Range",
+    "category": "Orthopedic",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Chain Link Padded Headboard from the Orthopedic Range. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4500,
+        "threeQuarter": 5200,
+        "double": 6100,
+        "queen": 6800,
+        "king": 8900
+      },
+      "mattressOnly": {},
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-",
+    "name": "",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Medium",
+    "firmnessRating": 6,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World  from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 5199,
+        "threeQuarter": 6199,
+        "double": 7199,
+        "queen": 7199,
+        "king": 9199
+      },
+      "mattressOnly": {
+        "single": 4699,
+        "threeQuarter": 5699,
+        "double": 6699,
+        "queen": 6699,
+        "king": 8199
+      },
+      "extraLengthSet": {
+        "single": 6239,
+        "threeQuarter": 7439,
+        "double": 8639,
+        "queen": 8639,
+        "king": 11039
+      },
+      "extraLengthMattressOnly": {
+        "single": 5639,
+        "threeQuarter": 6839,
+        "double": 8039,
+        "queen": 8039,
+        "king": 9839
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-o",
+    "name": "O",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World O from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 3499,
+        "threeQuarter": 3999,
+        "double": 4999,
+        "queen": 4999,
+        "king": 6999
+      },
+      "mattressOnly": {
+        "single": 2999,
+        "threeQuarter": 3499,
+        "double": 4499,
+        "queen": 4499,
+        "king": 5999
+      },
+      "extraLengthSet": {
+        "single": 4199,
+        "threeQuarter": 4799,
+        "double": 5999,
+        "queen": 5999,
+        "king": 8399
+      },
+      "extraLengthMattressOnly": {
+        "single": 3599,
+        "threeQuarter": 4199,
+        "double": 5399,
+        "queen": 5399,
+        "king": 7199
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-o",
+    "name": "O",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 115,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World O from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/hero_family_bed.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 2499,
+        "threeQuarter": 2799,
+        "double": 2999,
+        "queen": 2999,
+        "king": 4999
+      },
+      "mattressOnly": {
+        "single": 1999,
+        "threeQuarter": 2299,
+        "double": 2499,
+        "queen": 2499,
+        "king": 3999
+      },
+      "extraLengthSet": {},
+      "extraLengthMattressOnly": {}
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 3999,
+        "threeQuarter": 4499,
+        "double": 5499,
+        "queen": 5499,
+        "king": 7499
+      },
+      "mattressOnly": {
+        "single": 3499,
+        "threeQuarter": 3999,
+        "double": 4999,
+        "queen": 4999,
+        "king": 6499
+      },
+      "extraLengthSet": {
+        "single": 4799,
+        "threeQuarter": 5399,
+        "double": 6599,
+        "queen": 6599,
+        "king": 8999
+      },
+      "extraLengthMattressOnly": {
+        "single": 4199,
+        "threeQuarter": 4799,
+        "double": 5999,
+        "queen": 5999,
+        "king": 7799
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4999,
+        "threeQuarter": 5499,
+        "double": 7499,
+        "queen": 7499,
+        "king": 9499
+      },
+      "mattressOnly": {
+        "single": 4499,
+        "threeQuarter": 4999,
+        "double": 6999,
+        "queen": 6999,
+        "king": 8499
+      },
+      "extraLengthSet": {
+        "single": 5999,
+        "threeQuarter": 6599,
+        "double": 8999,
+        "queen": 8999,
+        "king": 11399
+      },
+      "extraLengthMattressOnly": {
+        "single": 5399,
+        "threeQuarter": 5999,
+        "double": 8399,
+        "queen": 8399,
+        "king": 10199
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 5999,
+        "threeQuarter": 6999,
+        "double": 8999,
+        "queen": 8999,
+        "king": 10999
+      },
+      "mattressOnly": {
+        "single": 5499,
+        "threeQuarter": 5999,
+        "double": 8499,
+        "queen": 8499,
+        "king": 9999
+      },
+      "extraLengthSet": {
+        "single": 7199,
+        "threeQuarter": 8399,
+        "double": 10799,
+        "queen": 10799,
+        "king": 13199
+      },
+      "extraLengthMattressOnly": {
+        "single": 6599,
+        "threeQuarter": 7199,
+        "double": 10199,
+        "queen": 10199,
+        "king": 11999
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 50,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 6999,
+        "threeQuarter": 7999,
+        "double": 9999,
+        "queen": 9999,
+        "king": 11999
+      },
+      "mattressOnly": {
+        "single": 6499,
+        "threeQuarter": 7499,
+        "double": 9499,
+        "queen": 9499,
+        "king": 10999
+      },
+      "extraLengthSet": {
+        "single": 8399,
+        "threeQuarter": 9599,
+        "double": 11999,
+        "queen": 11999,
+        "king": 14399
+      },
+      "extraLengthMattressOnly": {
+        "single": 7799,
+        "threeQuarter": 8999,
+        "double": 11399,
+        "queen": 11399,
+        "king": 13199
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 150,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Heavy Duty Core Foam & Posture Support",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 5499,
+        "threeQuarter": 5999,
+        "double": 8499,
+        "queen": 8499,
+        "king": 10499
+      },
+      "mattressOnly": {
+        "single": 4999,
+        "threeQuarter": 5499,
+        "double": 7999,
+        "queen": 7999,
+        "king": 9499
+      },
+      "extraLengthSet": {
+        "single": 6599,
+        "threeQuarter": 7199,
+        "double": 10199,
+        "queen": 10199,
+        "king": 12599
+      },
+      "extraLengthMattressOnly": {
+        "single": 5999,
+        "threeQuarter": 6599,
+        "double": 9599,
+        "queen": 9599,
+        "king": 11399
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 3999,
+        "threeQuarter": 4499,
+        "double": 5499,
+        "queen": 5499,
+        "king": 7499
+      },
+      "mattressOnly": {
+        "single": 3499,
+        "threeQuarter": 3999,
+        "double": 4999,
+        "queen": 4999,
+        "king": 6499
+      },
+      "extraLengthSet": {
+        "single": 4799,
+        "threeQuarter": 5399,
+        "double": 6599,
+        "queen": 6599,
+        "king": 8999
+      },
+      "extraLengthMattressOnly": {
+        "single": 4199,
+        "threeQuarter": 4799,
+        "double": 5999,
+        "queen": 5999,
+        "king": 7799
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "mattress-world-ho",
+    "name": "Ho",
+    "brand": "Mattress World",
+    "range": "O",
+    "category": "Orthopedic",
+    "feel": "Medium",
+    "firmnessRating": 6,
+    "weightLimitKg": 120,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Mattress World Ho from the O. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/mattress_world_Hospitality-Pocket_Bed_set.jpg",
+    "brandLogo": "/assets/logos/mattress_world_logo.png",
+    "prices": {
+      "set": {
+        "single": 4999,
+        "threeQuarter": 5999,
+        "double": 6999,
+        "queen": 6999,
+        "king": 8999
+      },
+      "mattressOnly": {
+        "single": 4499,
+        "threeQuarter": 4999,
+        "double": 6499,
+        "queen": 6499,
+        "king": 7999
+      },
+      "extraLengthSet": {
+        "single": 5999,
+        "threeQuarter": 7199,
+        "double": 8399,
+        "queen": 8399,
+        "king": 10799
+      },
+      "extraLengthMattressOnly": {
+        "single": 5399,
+        "threeQuarter": 5999,
+        "double": 7799,
+        "queen": 7799,
+        "king": 9599
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-",
+    "name": "",
+    "brand": "Rest Assured",
+    "range": "",
+    "category": "Pocket Spring",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Cambridge_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 8819,
+        "threeQuarter": 10049,
+        "double": 12049,
+        "queen": 13149,
+        "king": 16679
+      },
+      "mattressOnly": {
+        "single": 7159,
+        "threeQuarter": 8219,
+        "double": 10019,
+        "queen": 11069,
+        "king": 13369
+      },
+      "extraLengthSet": {
+        "single": 9529,
+        "threeQuarter": 10859,
+        "double": 13019,
+        "queen": 14199,
+        "king": 18019
+      },
+      "extraLengthMattressOnly": {
+        "single": 7739,
+        "threeQuarter": 8879,
+        "double": 10819,
+        "queen": 11959,
+        "king": 14439
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-camb",
+    "name": "Camb",
+    "brand": "Rest Assured",
+    "range": "",
+    "category": "Pocket Spring",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured Camb from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Cambridge_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 12419,
+        "threeQuarter": 14029,
+        "double": 17029,
+        "queen": 18399,
+        "king": 22709
+      },
+      "mattressOnly": {
+        "single": 10769,
+        "threeQuarter": 12199,
+        "double": 14999,
+        "queen": 16319,
+        "king": 19399
+      },
+      "extraLengthSet": {
+        "single": 13419,
+        "threeQuarter": 15159,
+        "double": 18399,
+        "queen": 19869,
+        "king": 24529
+      },
+      "extraLengthMattressOnly": {
+        "single": 11629,
+        "threeQuarter": 13179,
+        "double": 16199,
+        "queen": 17629,
+        "king": 20949
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-",
+    "name": "",
+    "brand": "Rest Assured",
+    "range": "",
+    "category": "Pocket Spring",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured  from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Cambridge_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 6129,
+        "threeQuarter": 6899,
+        "double": 8169,
+        "queen": 8819,
+        "king": 11309
+      },
+      "mattressOnly": {
+        "single": 4479,
+        "threeQuarter": 5069,
+        "double": 6139,
+        "queen": 6739,
+        "king": 7999
+      },
+      "extraLengthSet": {
+        "single": 6619,
+        "threeQuarter": 7449,
+        "double": 8829,
+        "queen": 9529,
+        "king": 12219
+      },
+      "extraLengthMattressOnly": {
+        "single": 4839,
+        "threeQuarter": 5479,
+        "double": 6629,
+        "queen": 7279,
+        "king": 8639
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-a",
+    "name": "A",
+    "brand": "Rest Assured",
+    "range": "",
+    "category": "Pocket Spring",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured A from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Cambridge_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 15329,
+        "threeQuarter": 19439,
+        "double": 22369,
+        "queen": 24109,
+        "king": 29349
+      },
+      "mattressOnly": {
+        "single": 13669,
+        "threeQuarter": 17599,
+        "double": 20339,
+        "queen": 22029,
+        "king": 26029
+      },
+      "extraLengthSet": {
+        "single": 16559,
+        "threeQuarter": 20999,
+        "double": 24159,
+        "queen": 26039,
+        "king": 31699
+      },
+      "extraLengthMattressOnly": {
+        "single": 14769,
+        "threeQuarter": 19009,
+        "double": 21969,
+        "queen": 23799,
+        "king": 28119
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-body-ba",
+    "name": "Body Ba",
+    "brand": "Rest Assured",
+    "range": "",
+    "category": "Pocket Spring",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured Body Ba from the . Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Cambridge_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 11099,
+        "threeQuarter": 12639,
+        "double": 15189,
+        "queen": 16499,
+        "king": 20379
+      },
+      "mattressOnly": {
+        "single": 9449,
+        "threeQuarter": 10809,
+        "double": 13159,
+        "queen": 14419,
+        "king": 17069
+      },
+      "extraLengthSet": {
+        "single": 11989,
+        "threeQuarter": 13649,
+        "double": 16409,
+        "queen": 17819,
+        "king": 22009
+      },
+      "extraLengthMattressOnly": {
+        "single": 10209,
+        "threeQuarter": 11679,
+        "double": 14219,
+        "queen": 15579,
+        "king": 18439
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-t",
+    "name": "T",
+    "brand": "Rest Assured",
+    "range": "H",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured T from the H. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Turnberry_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 6339,
+        "threeQuarter": 7069,
+        "double": 8419,
+        "queen": 8989,
+        "king": 11689
+      },
+      "mattressOnly": {
+        "single": 4689,
+        "threeQuarter": 5239,
+        "double": 6399,
+        "queen": 6909,
+        "king": 8379
+      },
+      "extraLengthSet": {
+        "single": 6849,
+        "threeQuarter": 7639,
+        "double": 9099,
+        "queen": 9709,
+        "king": 12629
+      },
+      "extraLengthMattressOnly": {
+        "single": 5069,
+        "threeQuarter": 5659,
+        "double": 6909,
+        "queen": 7469,
+        "king": 9049
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-yo",
+    "name": "Yo",
+    "brand": "Rest Assured",
+    "range": "H",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured Yo from the H. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Turnberry_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 5859,
+        "threeQuarter": 6509,
+        "double": 7739,
+        "queen": 8149,
+        "king": 10819
+      },
+      "mattressOnly": {
+        "single": 4209,
+        "threeQuarter": 4679,
+        "double": 5709,
+        "queen": 6069,
+        "king": 7509
+      },
+      "extraLengthSet": {
+        "single": 6329,
+        "threeQuarter": 7029,
+        "double": 8359,
+        "queen": 8799,
+        "king": 11689
+      },
+      "extraLengthMattressOnly": {
+        "single": 4549,
+        "threeQuarter": 5059,
+        "double": 6169,
+        "queen": 6559,
+        "king": 8109
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-w",
+    "name": "W",
+    "brand": "Rest Assured",
+    "range": "H",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured W from the H. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Turnberry_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 9059,
+        "double": 12209,
+        "queen": 13449,
+        "king": 16599
+      },
+      "mattressOnly": {
+        "single": 7409,
+        "double": 10179,
+        "queen": 11359,
+        "king": 13289
+      },
+      "extraLengthSet": {
+        "single": 9789,
+        "double": 13189,
+        "queen": 14529,
+        "king": 17929
+      },
+      "extraLengthMattressOnly": {
+        "single": 8009,
+        "double": 10999,
+        "queen": 12269,
+        "king": 14359
+      }
+    },
+    "availableSizes": [
+      "single",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-mq10-ba",
+    "name": "MQ10 Ba",
+    "brand": "Rest Assured",
+    "range": "H",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured MQ10 Ba from the H. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Turnberry_Bed_Set.jpg",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 7459,
+        "threeQuarter": 8349,
+        "double": 10009,
+        "queen": 10769,
+        "king": 13739
+      },
+      "mattressOnly": {
+        "single": 5799,
+        "threeQuarter": 6519,
+        "double": 7979,
+        "queen": 8689,
+        "king": 10429
+      },
+      "extraLengthSet": {
+        "single": 8059,
+        "threeQuarter": 9019,
+        "double": 10809,
+        "queen": 11629,
+        "king": 14839
+      },
+      "extraLengthMattressOnly": {
+        "single": 6269,
+        "threeQuarter": 7039,
+        "double": 8619,
+        "queen": 9389,
+        "king": 11269
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-v",
+    "name": "V",
+    "brand": "Rest Assured",
+    "range": "Mat",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured V from the Mat. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Rest_A_Flex_Base_Set.png",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 3729,
+        "threeQuarter": 4189,
+        "double": 4809,
+        "queen": 5279,
+        "king": 6709
+      },
+      "mattressOnly": {
+        "single": 2469,
+        "threeQuarter": 2769,
+        "double": 3269,
+        "queen": 3649,
+        "king": 4189
+      },
+      "extraLengthSet": {
+        "single": 4029,
+        "threeQuarter": 4529,
+        "double": 5199,
+        "queen": 5709,
+        "king": 7249
+      },
+      "extraLengthMattressOnly": {
+        "single": 2669,
+        "threeQuarter": 2989,
+        "double": 3529,
+        "queen": 3939,
+        "king": 4529
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-f",
+    "name": "F",
+    "brand": "Rest Assured",
+    "range": "Mat",
+    "category": "High Density Foam",
+    "feel": "Firm",
+    "firmnessRating": 8,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured F from the Mat. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Rest_A_Flex_Base_Set.png",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 4079,
+        "threeQuarter": 4609,
+        "double": 5309,
+        "queen": 5859,
+        "king": 7419
+      },
+      "mattressOnly": {
+        "single": 2819,
+        "threeQuarter": 3179,
+        "double": 3769,
+        "queen": 4229,
+        "king": 4899
+      },
+      "extraLengthSet": {
+        "single": 4409,
+        "threeQuarter": 4979,
+        "double": 5739,
+        "queen": 6329,
+        "king": 8019
+      },
+      "extraLengthMattressOnly": {
+        "single": 3049,
+        "threeQuarter": 3439,
+        "double": 4069,
+        "queen": 4569,
+        "king": 5289
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-",
+    "name": "",
+    "brand": "Rest Assured",
+    "range": "Mat",
+    "category": "High Density Foam",
+    "feel": "Medium",
+    "firmnessRating": 6,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured  from the Mat. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Rest_A_Flex_Base_Set.png",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 5129,
+        "threeQuarter": 5779,
+        "double": 6619,
+        "queen": 7229,
+        "king": 9139
+      },
+      "mattressOnly": {
+        "single": 3869,
+        "threeQuarter": 4359,
+        "double": 5079,
+        "queen": 5599,
+        "king": 6619
+      },
+      "extraLengthSet": {
+        "single": 5539,
+        "threeQuarter": 6249,
+        "double": 7149,
+        "queen": 7809,
+        "king": 9869
+      },
+      "extraLengthMattressOnly": {
+        "single": 4179,
+        "threeQuarter": 4709,
+        "double": 5489,
+        "queen": 6049,
+        "king": 7149
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  },
+  {
+    "id": "rest-assured-",
+    "name": "",
+    "brand": "Rest Assured",
+    "range": "Mat",
+    "category": "High Density Foam",
+    "feel": "Medium Firm",
+    "firmnessRating": 7,
+    "weightLimitKg": 130,
+    "guaranteeYears": 2,
+    "warrantyYears": 10,
+    "isTurnable": true,
+    "technology": "Independent Pocket Spring System",
+    "description": "Official Rest Assured  from the Mat. Engineered for premium spinal alignment and posture balance.",
+    "features": [
+      "Chiropractor Approved Spinal Support",
+      "Zero Motion Transfer",
+      "Hypoallergenic Luxury Fabric Cover",
+      "Heavy Duty Edge Support"
+    ],
+    "image": "/assets/products/rest_assured_Rest_Assured_Rest_A_Flex_Base_Set.png",
+    "brandLogo": "/assets/logos/rest_assured_logo.png",
+    "prices": {
+      "set": {
+        "single": 4749,
+        "threeQuarter": 5389,
+        "double": 6339,
+        "queen": 6929,
+        "king": 8719
+      },
+      "mattressOnly": {
+        "single": 3489,
+        "threeQuarter": 3969,
+        "double": 4799,
+        "queen": 4869,
+        "king": 6199
+      },
+      "extraLengthSet": {
+        "single": 5129,
+        "threeQuarter": 5829,
+        "double": 6849,
+        "queen": 7489,
+        "king": 9419
+      },
+      "extraLengthMattressOnly": {
+        "single": 3769,
+        "threeQuarter": 4289,
+        "double": 5189,
+        "queen": 5259,
+        "king": 6699
+      }
+    },
+    "availableSizes": [
+      "single",
+      "threeQuarter",
+      "double",
+      "queen",
+      "king"
+    ],
+    "supportsExtraLength": true,
+    "supportsMattressOnly": true
+  }
+]
