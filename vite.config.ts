@@ -23,6 +23,17 @@ export default defineConfig({
       '~': resolve(__dirname, './app'),
     },
   },
+  ssr: {
+    noExternal: [
+      'react',
+      'react-dom',
+      'react/jsx-runtime',
+      'react/jsx-dev-runtime',
+      '@remix-run/react',
+      'clsx',
+      'lucide-react',
+    ],
+  },
   build: {
     assetsInlineLimit: 0,
   },
